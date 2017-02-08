@@ -13,9 +13,9 @@ Class Turma{
 $aluno = new Aluno;
 $aluno->nome = "Rafael Cosentino";
 $aluno->rg = 111111;
-$aluno->dataDeNascimento = 30/10/1984;
-$turma->perido = "Manha";
-$serie-> "5"
-$siga-> "B"
-$tipoDeEnsino->
-echo "Nome do dono do cartão: {$cartao->dono->nome}\n";
+$aluno->dataDeNascimento = "30/10/1984";
+$turma->periodo = "Manha";
+$turma->serie = "5";
+$turma->sigla = "B";
+$turma->tipoDeEnsino = "Fundamental";
+echo "Turma do aluno: {$aluno->dono->periodo}\n";
