@@ -1,1 +1,24 @@
 site de exercicios: urionlinejudge.com.br
+
+
+
+Aluno
+    nome
+    rg
+    dataNascimento
+  Turma turma
+
+  urma
+    periodo Manha
+    serie = 5
+    sigla B
+    tipoDeEnsino Fundamental
+
+  aluno
+    nome Rafael Cosentino
+    dataNascimento 30/10/1984
+    rg 11111111
+
+  aluno -> turma = turma
+
+  imprimir os dados da turma do aluno
