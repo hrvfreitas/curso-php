@@ -11,5 +11,5 @@ echo "Saldo após deposito: $conta->saldo" . PHP_EOL;
 
 $contaconta->saca(800)
 
-echo "Saldo após o saque: $conta->saldo" . PHP_EOL;
+echo "Saque efetuado com sucesso" . PHP_EOL;
  ?>

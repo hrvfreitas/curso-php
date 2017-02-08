@@ -12,7 +12,10 @@
     }
     public function saca($valor)
     {
+      if($valor <= $this->saldo)}
       $this->saldo -= $valor;
+      return TRUE;
     }
+
   }
  ?>
