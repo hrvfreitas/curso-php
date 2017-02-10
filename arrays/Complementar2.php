@@ -1,5 +1,5 @@
 <?php
-$vetor = array(2, 3, 4, 5);
+$vetor = array(2, 3, 4, 50);
 
 $multiplicacao = 1;
 
