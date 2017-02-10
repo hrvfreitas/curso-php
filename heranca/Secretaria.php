@@ -6,8 +6,7 @@ class Gerente extends Funcionario
 
 {
 
-  public $usuario;
-  public $senha;
+  public $privat int ramal;
 }
 
  ?>
