@@ -22,3 +22,10 @@ Aluno
   aluno -> turma = turma
 
   imprimir os dados da turma do aluno
+
+
+github's recomendados
+mirstation
+felipeftrindade
+marcelomodesto
+Renat89
